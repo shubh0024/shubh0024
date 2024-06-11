@@ -30,7 +30,7 @@ I'm passionate about full-stack web development, exploring the ever-evolving wor
   
 ## My Stats
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=shubham0024&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=shubh0024&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub
