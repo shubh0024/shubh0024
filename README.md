@@ -14,13 +14,13 @@ I'm passionate about full-stack web development, exploring the ever-evolving wor
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
+      <td>
         <div align="center">
           <a href="https://github.com/shubh0024"><img src="https://github.com/shubh0024" alt="@shubh0024" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/shubh0024"><b>shubh0024</b></a>
         </b>
-      </td> -->
+      </td> 
       <!-- Profile Views -->
       <td>
          <a href="https://github.com/shubh0024"> <img src="https://komarev.com/ghpvc/?username=shubh0024&style=for-the-badge&color=brightgreen"></a>
