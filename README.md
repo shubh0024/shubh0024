@@ -37,7 +37,7 @@ I'm passionate about full-stack web development, exploring the ever-evolving wor
 
 <p align="center">
   <a href="https://github.com/shubh0024">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh0024&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh0024&theme=draculla&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
